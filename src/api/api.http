@@ -1,3 +1,7 @@
 GET http://www.omdbapi.com/?apikey=c3804e9a
 
-### Search by title
+### All movie
+GET http://www.omdbapi.com/?apikey=c3804e9a&s=jurassic_park
+
+### Single movie
+GET http://www.omdbapi.com/?apikey=c3804e9a&t=s
